@@ -14,3 +14,4 @@ A simple clone of Linktree (https://linktr.ee) using html & css.
 `git clone https://github.com/jgamer-playzyt/Linktree-clone.git`
 
 2. Load up the project in any code editor (ex. Vscode)
+
