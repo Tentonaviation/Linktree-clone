@@ -44,6 +44,7 @@ body {
     width: 50%;
     height: 50%;
     margin-bottom: 1%;
+    transition: 0.5s;
 }
 
 .box-text {
@@ -56,6 +57,13 @@ body {
 .box:hover {
     color: var(--white);
     text-decoration: none;
+    transform: scale(120%);
+}
+
+.box:active {
+    color: var(--white);
+    text-decoration: none;
+    transform: scale(120%);
 }
 
 .box-icon {
@@ -81,5 +89,5 @@ body {
     top: 39%;
     font-size: 80px;
     fill: white;
-  }
+}
 
