@@ -24,10 +24,6 @@ body {
     transform: scale(100%);
 }
 
-.pfp img:hover {
-    transform: scale(80%);
-}
-
 .username {
     justify-content: center;
     align-items: center;
@@ -54,17 +50,6 @@ body {
     font-weight: 600;
 }
 
-.box:hover {
-    color: var(--white);
-    text-decoration: none;
-    transform: scale(120%);
-}
-
-.box:active {
-    color: var(--white);
-    text-decoration: none;
-    transform: scale(120%);
-}
 
 .box-icon {
   position: absolute;
@@ -90,4 +75,5 @@ body {
     font-size: 80px;
     fill: white;
 }
+
 
