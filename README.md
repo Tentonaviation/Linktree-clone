@@ -1,5 +1,6 @@
 # Linktree clone
 [![License](https://github.com/Tentonaviation/Linktree-clone/blob/main/LICENSE)
+![License](https://github.com/Tentonaviation/Linktree-clone/blob/main/LICENSE)
 A simple clone of Linktree (https://linktr.ee) using html & css.
 
 ## Features
