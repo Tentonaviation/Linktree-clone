@@ -5,9 +5,10 @@ A simple clone of Linktree (https://linktr.ee) using html & css.
 
 ## Features
 
--Linktree Style UI
--Responsive link boxes
--Customizable
+- Linktree Style UI
+- Dark color scheme
+
+  More coming soon...
 
 ## Installation
 
